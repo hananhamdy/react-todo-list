@@ -1,0 +1,27 @@
+.Done {
+  background: #eee !important;
+}
+
+.TextField {
+  width: 100%;
+}
+
+form {
+  width: 100% !important;
+}
+
+/* .Body span {
+  color: #f0f !important;
+} */
+
+b {
+  font-size: 12px;
+}
+
+.Done span {
+  text-decoration: line-through !important;
+}
+
+.Red {
+  color: red;
+}

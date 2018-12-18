@@ -1,0 +1,14 @@
+.Header {
+  background: #eee;
+  color: white;
+  padding: 15px 0;
+  text-align: center;
+}
+
+.margin {
+  margin: 0 10px !important;
+}
+
+.Active {
+  background: green !important;
+}
