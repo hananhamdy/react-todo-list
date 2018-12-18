@@ -1,6 +1,10 @@
 # react-todo
 
 Simple todo in React
+<br/>
+<br/>
+
+![](gif-2.gif)
 
 ## Instructions
 
